@@ -16,7 +16,7 @@ def partition(array: List[Any], left: int, right: int) -> int:
     return i
 
 """
-===Test===
+###Test###
 if __name__ == "__main__":
     import random
     arr = [random.randint(0,100) for i in range(10)]
