@@ -6,8 +6,9 @@ algorithms in python
     - [x] kmp search alogrithm
 - dynamic programming
     - [ ] longest increasing subsequence
-    - [ ] 0/1 knapsack
     - [ ] longest palindromic subsequence
+    - [x] 0/1 knapsack
+    - [x] unbounded knapsack
 - selection
     - [x] quick select
     - [x] median of medians
