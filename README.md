@@ -5,10 +5,18 @@ algorithms in python
 - pattern matching
     - [x] kmp search alogrithm
 - dynamic programming
-    - [ ] longest increasing subsequence
-    - [ ] longest palindromic subsequence
-    - [x] 0/1 knapsack
-    - [x] unbounded knapsack
+    - [x] edit distance
+    - subsequence
+        - [x] longest increasing subsequence
+        - [ ] longest palindromic subsequence
+        - [x] longest common subsequence
+    - subarray
+        - [ ] longest common subarray/substring
+        - [ ] longest palindromic subarray/substring
+        - [x] max subarray
+    - knapsack
+        - [x] 0/1 knapsack
+        - [x] unbounded knapsack
 - selection
     - [x] quick select
     - [x] median of medians
@@ -25,7 +33,8 @@ algorithms in python
     - [ ] pigeonhole sort
     - [ ] insertion sort
     - [x] bubble sort
+    - [x] wave form sort  (e.g. 1 4 3 5 1 5; both neighbors of a number are either smaller or bigger)
 - geometry
-    - [ ] two closest points
+    - [ ] closest pair of points
     - [ ] line intersections
     - [ ] line intersections in interval
