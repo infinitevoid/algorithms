@@ -17,18 +17,21 @@ algorithms in python
     - knapsack
         - [x] 0/1 knapsack
         - [x] unbounded knapsack
+- divide and conquer
+    - [x] karatsuba multiplication
+    - [x] matrix multiplication (strassen's algorithm)
 - selection
     - [x] quick select
     - [x] median of medians
     - [ ] kth smallest using min heap
 - searching
-    - [ ] interpolation search
+    - [x] interpolation search
     - [x] binary search
     - [x] linear search
 - sorting
     - [x] heap sort
     - [x] merge sort
-    - [ ] radix sort
+    - [x] radix sort
     - [ ] flash sort
     - [ ] pigeonhole sort
     - [ ] insertion sort
