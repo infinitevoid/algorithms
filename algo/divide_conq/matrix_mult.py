@@ -1,6 +1,8 @@
 from typing import Tuple
 """
 You should use numpy!!!
+
+strassen matrix multiplication for 2^n x 2^n matrices
 """
 
 class NNMatrix:

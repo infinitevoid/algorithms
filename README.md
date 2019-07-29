@@ -38,6 +38,6 @@ algorithms in python
     - [x] bubble sort
     - [x] wave form sort  (e.g. 1 4 3 5 1 5; both neighbors of a number are either smaller or bigger)
 - geometry
-    - [ ] closest pair of points
+    - [x] closest pair of points
     - [ ] line intersections
     - [ ] line intersections in interval
