@@ -23,7 +23,7 @@ algorithms in python
 - selection
     - [x] quick select
     - [x] median of medians
-    - [ ] kth smallest using min heap
+    - [x] kth smallest using min heap
 - searching
     - [x] interpolation search
     - [x] binary search
@@ -32,7 +32,7 @@ algorithms in python
     - [x] heap sort
     - [x] merge sort
     - [x] radix sort
-    - [ ] flash sort
+    - [x] flash sort
     - [ ] pigeonhole sort
     - [ ] insertion sort
     - [x] bubble sort
