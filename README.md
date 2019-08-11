@@ -39,7 +39,7 @@ algorithms in python
     - [x] wave form sort  (e.g. 1 4 3 5 1 5; both neighbors of a number are either smaller or bigger)
 - geometry
     - [x] closest pair of points
-    - [ ] graham's scan (convex hull)
+    - [x] graham's scan (convex hull)
     - [ ] line intersections
     - [ ] line intersections in interval
 - graph
