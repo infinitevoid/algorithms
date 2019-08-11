@@ -10,9 +10,10 @@ algorithms in python
         - [x] longest increasing subsequence
         - [ ] longest palindromic subsequence
         - [x] longest common subsequence
+    - substring
+        - [x] longest common substring
+        - [ ] longest palindromic substring
     - subarray
-        - [ ] longest common subarray/substring
-        - [ ] longest palindromic subarray/substring
         - [x] max subarray
     - knapsack
         - [x] 0/1 knapsack
@@ -38,8 +39,11 @@ algorithms in python
     - [x] bubble sort
     - [x] wave form sort  (e.g. 1 4 3 5 1 5; both neighbors of a number are either smaller or bigger)
 - geometry
+    - convex hull
+        - [x] graham's scan (convex hull)
+        - [ ] gift wrapping algorithm
+        - [ ] chan's convex hull algorithm
     - [x] closest pair of points
-    - [x] graham's scan (convex hull)
     - [ ] line intersections
     - [ ] line intersections in interval
 - graph
