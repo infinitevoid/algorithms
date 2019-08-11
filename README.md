@@ -43,6 +43,6 @@ algorithms in python
     - [ ] line intersections
     - [ ] line intersections in interval
 - graph
-    - [ ] dijkstra's algorithm
-    - [ ] prim's algorithm
+    - [x] dijkstra's algorithm
+    - [x] prim's mst algorithm
     - [ ] kurskal's algorithm

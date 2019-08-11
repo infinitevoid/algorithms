@@ -92,6 +92,9 @@ class FibonacciHeap():
         self.cut(node)
         if node.priority<self.smallest.priority:
             self.smallest = node
+    
+    def get_priority(self, handle: Any):
+        return self.nodes[handle].priority
 
     def cut(self,n: FibNode):
         if n.parent!=None:
