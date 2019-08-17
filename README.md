@@ -11,8 +11,10 @@ algorithms in python
         - [ ] longest palindromic subsequence
         - [x] longest common subsequence
     - substring
-        - [x] longest common substring
-        - [ ] longest palindromic substring
+        - [x] longest common substring (dynamic)
+        - Suffix Tree
+            - [ ] longest common substring
+            - [ ] longest palindromic substring
     - subarray
         - [x] max subarray
     - knapsack
@@ -50,3 +52,6 @@ algorithms in python
     - [x] dijkstra's algorithm
     - [x] prim's mst algorithm
     - [ ] kurskal's algorithm
+    - [ ] cycle in graph
+    - [ ] longest path in acyclic graph
+    - [ ] longest path in weighted graph
