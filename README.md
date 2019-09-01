@@ -12,6 +12,7 @@ algorithms in python
         - [x] longest common subsequence
     - substring
         - [x] longest common substring (dynamic)
+        - [x] longest palindromic substring (manacher's algorithm)
         - Suffix Tree
             - [ ] longest common substring
             - [ ] longest palindromic substring
